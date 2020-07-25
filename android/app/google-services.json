@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492855451587",
+    "firebase_url": "https://visitadoctor-1bd16.firebaseio.com",
+    "project_id": "visitadoctor-1bd16",
+    "storage_bucket": "visitadoctor-1bd16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492855451587:android:3b902b9278e922fcfca776",
+        "android_client_info": {
+          "package_name": "com.kshitijsu.visitadoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492855451587-3g1njfe1sqlrk3p0c286oj8aevjmrcbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSM6wIAszMlv5AYhRYbKYcp3W-5Y1JLEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492855451587-3g1njfe1sqlrk3p0c286oj8aevjmrcbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
